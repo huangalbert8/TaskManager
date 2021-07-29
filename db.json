@@ -1,0 +1,383 @@
+{
+  "projects": [
+    {
+      "text": "Task Manager",
+      "day": "",
+      "reminder": false,
+      "type": "project",
+      "completion": "in progress",
+      "id": 8,
+      "show": true
+    }
+  ],
+  "tasks": [
+    {
+      "text": "Ask Omar how to finish Akamai",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "id": 15,
+      "completion": "deleted"
+    },
+    {
+      "text": "Apply to jobs",
+      "day": "",
+      "reminder": false,
+      "type": "long",
+      "id": 24,
+      "completion": "deleted"
+    },
+    {
+      "text": "Read Book",
+      "day": "",
+      "reminder": false,
+      "type": "long",
+      "id": 25,
+      "completion": "deleted"
+    },
+    {
+      "text": "Make task manger able to see completion",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "id": 27,
+      "completion": "deleted"
+    },
+    {
+      "text": "Yeezy supply ",
+      "day": "July 4 9PM",
+      "reminder": false,
+      "type": "long",
+      "id": 28,
+      "completion": "deleted"
+    },
+    {
+      "text": "After lunch do 2 leetcodes",
+      "day": "",
+      "reminder": true,
+      "type": "long",
+      "id": 29,
+      "completion": "completed"
+    },
+    {
+      "text": "Look for housing",
+      "day": "",
+      "reminder": false,
+      "type": "long",
+      "id": 30,
+      "completion": "completed"
+    },
+    {
+      "text": "Call Omar",
+      "day": "11-11:30",
+      "reminder": "false",
+      "type": "short",
+      "completion": "deleted",
+      "id": 32
+    },
+    {
+      "text": "Workout",
+      "day": "9:00PM",
+      "reminder": false,
+      "type": "long",
+      "completion": "completed",
+      "id": 34
+    },
+    {
+      "text": "Look at some Kaggle HandWriting Rec.",
+      "day": "",
+      "reminder": false,
+      "type": "long",
+      "completion": "deleted",
+      "id": 35
+    },
+    {
+      "text": "Make the task manager able to see the tasks completed and not completed",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "deleted",
+      "id": 36
+    },
+    {
+      "text": "Then make them deletable",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "completed",
+      "id": 37
+    },
+    {
+      "text": "Learning routing to learn to create different pages",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "completed",
+      "id": 38
+    },
+    {
+      "text": "Read Habits in the morning and gladwell at night",
+      "day": "",
+      "reminder": false,
+      "type": "long",
+      "completion": "completed",
+      "id": 39
+    },
+    {
+      "text": "Add no task if no tasks",
+      "day": "",
+      "reminder": true,
+      "type": "short",
+      "completion": "completed",
+      "id": 40
+    },
+    {
+      "text": "Upload to github",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "in progress",
+      "id": 41
+    },
+    {
+      "text": "start kaggling",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "in progress",
+      "id": 42
+    },
+    {
+      "text": "Get picture of stone island tag",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "completed",
+      "id": 43
+    },
+    {
+      "text": "Make task manager be able to add different types(i.e. Project names)",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "completed",
+      "id": 45
+    },
+    {
+      "text": "look up how to use keys/ids",
+      "day": "",
+      "reminder": false,
+      "type": "Eat Burger",
+      "completion": "completed",
+      "id": 46
+    },
+    {
+      "text": "Test Task Manager",
+      "day": "",
+      "reminder": false,
+      "type": "Task Manager",
+      "completion": "completed",
+      "id": 48
+    },
+    {
+      "text": "Think of a way to see completed Projects in completed tasks",
+      "day": "",
+      "reminder": false,
+      "type": "Task Manager",
+      "completion": "in progress",
+      "id": 49
+    },
+    {
+      "text": "make projects a different display than the completed tasks",
+      "day": "",
+      "reminder": false,
+      "type": "Task Manager",
+      "completion": "completed",
+      "id": 50
+    },
+    {
+      "text": "Make the No Tasks Display look better(maybe bold or smt)",
+      "day": "",
+      "reminder": false,
+      "type": "Task Manager",
+      "completion": "completed",
+      "id": 51
+    },
+    {
+      "text": "Fix Schedule",
+      "day": "",
+      "reminder": false,
+      "type": "long",
+      "completion": "deleted",
+      "id": 52
+    },
+    {
+      "text": "Finish watching the video while taking notes",
+      "day": "After call w omar or 10AM if no show",
+      "reminder": false,
+      "type": "short",
+      "completion": "deleted",
+      "id": 54
+    },
+    {
+      "text": "To do leetcode look at optimal solutions and deeply understand it, then do again the following day",
+      "day": "",
+      "reminder": true,
+      "type": "short",
+      "completion": "completed",
+      "id": 55
+    },
+    {
+      "text": "akamai solutions github",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "in progress",
+      "id": 56
+    },
+    {
+      "text": "take chicken out freezer",
+      "day": "",
+      "reminder": true,
+      "type": "short",
+      "completion": "completed",
+      "id": 57
+    },
+    {
+      "text": "cognzant",
+      "day": "11:30",
+      "reminder": true,
+      "type": "short",
+      "completion": "completed",
+      "id": 58
+    },
+    {
+      "text": "call nj ezpass",
+      "day": "Monday",
+      "reminder": true,
+      "type": "short",
+      "completion": "completed",
+      "id": 59
+    },
+    {
+      "text": "message lydia ",
+      "day": "monday",
+      "reminder": true,
+      "type": "short",
+      "completion": "completed",
+      "id": 60
+    },
+    {
+      "text": "Set Up leetcode sheets",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "completed",
+      "id": 61
+    },
+    {
+      "text": "Set Up applications sheet",
+      "day": "",
+      "reminder": false,
+      "type": "short",
+      "completion": "in progress",
+      "id": 62
+    },
+    {
+      "text": "fix car rush",
+      "day": "",
+      "reminder": true,
+      "type": "short",
+      "completion": "completed",
+      "id": 63
+    },
+    {
+      "text": "fix resume",
+      "day": "",
+      "reminder": true,
+      "type": "short",
+      "completion": "in progress",
+      "id": 64
+    },
+    {
+      "text": "Make car change lanes slower",
+      "day": "",
+      "reminder": false,
+      "type": "Car Rush",
+      "completion": "deleted",
+      "id": 65
+    },
+    {
+      "text": "Fix game mechanics(i.e. pause)",
+      "day": "",
+      "reminder": false,
+      "type": "Car Rush",
+      "completion": "completed",
+      "id": 66
+    },
+    {
+      "text": "Cognizant Leadership Academy",
+      "day": "8/12 & 8/13 11-3",
+      "reminder": false,
+      "type": "appointment",
+      "completion": "in progress",
+      "id": 67
+    },
+    {
+      "text": "BFS, DFS, Recursion",
+      "day": "",
+      "reminder": true,
+      "type": "short",
+      "completion": "in progress",
+      "id": 68
+    },
+    {
+      "text": "make tasks draggable",
+      "day": "",
+      "reminder": false,
+      "type": "Task Manager",
+      "completion": "deleted",
+      "id": 69
+    },
+    {
+      "text": "add pause to simulate",
+      "day": "",
+      "reminder": false,
+      "type": "Car Rush",
+      "completion": "completed",
+      "id": 70
+    },
+    {
+      "text": "fix unpause",
+      "day": "",
+      "reminder": false,
+      "type": "Car Rush",
+      "completion": "in progress",
+      "id": 71
+    },
+    {
+      "text": "Add dnd",
+      "day": "",
+      "reminder": true,
+      "type": "Task Manager",
+      "completion": "deleted",
+      "id": 72
+    },
+    {
+      "text": "upload to github",
+      "day": "",
+      "reminder": false,
+      "type": "Task Manager",
+      "completion": "in progress",
+      "id": 73
+    },
+    {
+      "text": "make comments",
+      "day": "",
+      "reminder": false,
+      "type": "Task Manager",
+      "completion": "in progress",
+      "id": 74
+    }
+  ]
+}
